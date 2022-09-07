@@ -21,7 +21,6 @@ for (let i = 0; i < 640; i++){
         square()
 }
 
-
 let redPaintBrush = document.getElementById('redButton')
 redPaintBrush.addEventListener('click', () => {paintBrush = 'red'})
 
